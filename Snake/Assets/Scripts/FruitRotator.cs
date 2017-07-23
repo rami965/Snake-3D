@@ -5,11 +5,13 @@ public class FruitRotator : MonoBehaviour {
 
 	public GameObject snakeObject;
 	public Transform particles;
-	private int count;
 	private int minDistance = -8;
 	private int maxDistance = 8;
 	private AudioSource audioSrc;
 	private Vector3 newPosition;
+
+	//score
+	public static int count;
 
 	// Use this for initialization
 	void Start () {
