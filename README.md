@@ -34,18 +34,18 @@ https://youtu.be/Ep0TP4F3A0U
 Resources and useful links
 ==========================
 Swipe manager script<br>
-https://forum.unity3d.com/threads/swipe-in-all-directions-touch-and-mouse.165416/page-2#post-2741253 
+https://forum.unity3d.com/threads/swipe-in-all-directions-touch-and-mouse.165416/page-2#post-2741253
 
 particles<br>
-https://www.youtube.com/watch?v=TEZm8cfJnDg
+https://www.youtube.com/watch?v=TEZm8cfJnDg<br>
 https://www.assetstore.unity3d.com/en/#!/content/72399
 
 Materials<br>
-https://www.assetstore.unity3d.com/en/#!/content/21113
+https://www.assetstore.unity3d.com/en/#!/content/21113<br>
 https://www.assetstore.unity3d.com/en/#!/content/57060
 
 Sounds<br>
-https://opengameart.org/content/rpg-sound-pack
+https://opengameart.org/content/rpg-sound-pack<br>
 https://incompetech.com
 
 Grass models<br>
