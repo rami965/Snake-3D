@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Brown Stony Light
+  m_Shader: {fileID: 4800000, guid: 6e1af95886143194a8f5859695f04ace, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CutTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _InvFade
+        second: 1
+      data:
+        first:
+          name: _MainRotation
+        second: 0
+      data:
+        first:
+          name: _CutRotation
+        second: 0
+      data:
+        first:
+          name: _UVScrollX
+        second: 0
+      data:
+        first:
+          name: _UVScrollY
+        second: 0
+      data:
+        first:
+          name: _UVCutScrollX
+        second: 0
+      data:
+        first:
+          name: _UVCutScrollY
+        second: 0
+      data:
+        first:
+          name: _UVMirrorX
+        second: 0
+      data:
+        first:
+          name: _UVMirrorY
+        second: 0
+      data:
+        first:
+          name: _EmissionGain
+        second: 0
+    m_Colors: {}
