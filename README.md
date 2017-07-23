@@ -33,21 +33,21 @@ https://youtu.be/Ep0TP4F3A0U
 
 Resources and useful links
 ==========================
-Swipe manager script
+Swipe manager script<br>
 https://forum.unity3d.com/threads/swipe-in-all-directions-touch-and-mouse.165416/page-2#post-2741253 
 
-particles
+particles<br>
 https://www.youtube.com/watch?v=TEZm8cfJnDg
 https://www.assetstore.unity3d.com/en/#!/content/72399
 
-Materials
+Materials<br>
 https://www.assetstore.unity3d.com/en/#!/content/21113
 https://www.assetstore.unity3d.com/en/#!/content/57060
 
-Sounds
+Sounds<br>
 https://opengameart.org/content/rpg-sound-pack
 https://incompetech.com
 
-Grass models
+Grass models<br>
 https://opengameart.org/content/multi-stylized-grass
 
